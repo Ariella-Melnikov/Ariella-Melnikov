@@ -38,5 +38,11 @@ I'm a Fullstack/Front-End Developer with a passion for building things that make
 
 I'm always open to connecting with fellow developers, potential collaborators, and employers. Feel free to reach out to me through the following channels:
 
-- [LinkedIn](https://www.linkedin.com/in/ariella-melnikov-0262811b3/)
-- [Email](mailto:melnikov.ariella@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ariella-melnikov-0262811b3/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:melnikov.ariella@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
