@@ -12,7 +12,7 @@ I'm a Fullstack/Front-End Developer with a passion for building things that make
 
 ### ⚒ Skills & Tools
 
-**Frontend Technologies I work with:**
+**Front-End Technologies I work with:**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
