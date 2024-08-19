@@ -8,7 +8,7 @@ I'm a Fullstack/Front-End Developer with a passion for building things that make
 
 ### 👩🏻‍💻 Featured Project
 
-🏆 **Doneday** - A powerful project management tool inspired by Monday.com. Doneday streamlines task organization and enhances team collaboration, making project management more intuitive and effective. Discover the full potential of Doneday [here](https://doneday.onrender.com/).
+🏆 **Doneday** - A powerful project management tool inspired by Monday.com. Doneday streamlines task organization and enhances team collaboration, making project management more intuitive and effective. Discover the full potential of Doneday [here](https://doneday-9fse.onrender.com/).
 
 ### ⚒ Skills & Tools
 
