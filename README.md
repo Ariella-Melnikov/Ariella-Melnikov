@@ -4,7 +4,7 @@
 
 ### 💿 About Me
 
-I'm a Fullstack/Front-End Developer with a passion for building things that make a difference. I love tackling challenges, whether it's creating smooth user experiences or developing solid back-end systems. I'm always learning and exploring new tech to keep improving and staying ahead in the field. I believe in practical solutions that work well and make life easier for everyone.
+I'm a Fullstack Developer with a passion for building things that make a difference. I love tackling challenges, whether it's creating smooth user experiences or developing solid back-end systems. I'm always learning and exploring new tech to keep improving and staying ahead in the field. I believe in practical solutions that work well and make life easier for everyone.
 
 ### 👩🏻‍💻 Featured Project
 
