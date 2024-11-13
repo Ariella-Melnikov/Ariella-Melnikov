@@ -8,7 +8,13 @@ I'm a Fullstack/Front-End Developer with a passion for building things that make
 
 ### 👩🏻‍💻 Featured Project
 
-🏆 **Doneday** - A powerful project management tool inspired by Monday.com. Doneday streamlines task organization and enhances team collaboration, making project management more intuitive and effective. Discover the full potential of Doneday [here](https://doneday-9fse.onrender.com/).
+
+🏆 **Doneday** - A powerful project management tool inspired by Monday.com. Doneday streamlines task organization and enhances team collaboration, making project management more intuitive and effective. Discover the full potential of Doneday[here](https://doneday-9fse.onrender.com/).
+
+📚 **Tik Talk** - A dynamic website for English courses, tailored to meet specific business needs. Built in collaboration with a designer, Tik Talk offers a seamless user experience with interactive quizzes, course management (signup and purchase), user profiles, blogs, and AI-powered tools for admin site management. The platform combines a robust Node.js backend with a responsive Vue.js front-end to deliver an intuitive learning environment.
+
+🚧 The project is still in progress, but feel free to explore the source code [here](https://github.com/Ariella-Melnikov/Tik_Talk_Il).
+
 
 ### ⚒ Skills & Tools
 
