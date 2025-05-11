@@ -14,7 +14,8 @@ I'm a Fullstack Developer with a passion for building things that make a differe
 
 🛒 **Asteria** - is a fully responsive portfolio project simulating an e-commerce web application, built with TypeScript, React, Redux, and NestJS. It provides a full shopping flow—from product browsing and filtering to cart management, checkout, and payment integration—all based on a custom-designed UI. The project focuses on clean code, mobile-first performance, and a smooth user experience.
 > This is a showcase project for learning and demonstration purposes only. It is not a real online store.
-[Live Demo](https://asteria.onrender.com)
+
+[Live Demo-https://asteria.onrender.com](https://asteria.onrender.com)
 
 
 📚 **Tik Talk** - A dynamic website for English courses, tailored to meet specific business needs. Built in collaboration with a designer, Tik Talk offers a seamless user experience with interactive quizzes, course management (signup and purchase), user profiles, blogs, and AI-powered tools for admin site management. The platform combines a robust Node.js backend with a responsive Vue.js front-end to deliver an intuitive learning environment.
