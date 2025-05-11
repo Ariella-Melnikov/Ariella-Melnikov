@@ -9,7 +9,7 @@ I'm a Fullstack Developer with a passion for building things that make a differe
 ### 👩🏻‍💻 Featured Project
 
 
-🏆 **Doneday** - A powerful project management tool inspired by Monday.com. Doneday streamlines task organization and enhances team collaboration, making project management more intuitive and effective. Discover the full potential of Doneday [here](https://doneday-9fse.onrender.com/).
+🏆 **Doneday** - A powerful project management tool inspired by monday.com. Doneday streamlines task organization and enhances team collaboration, making project management more intuitive and effective. Discover the full potential of Doneday [here](https://doneday-9fse.onrender.com/).
 
 
 🛒 **Asteria** - is a fully responsive portfolio project simulating an e-commerce web application, built with TypeScript, React, Redux, and NestJS. It provides a full shopping flow—from product browsing and filtering to cart management, checkout, and payment integration—all based on a custom-designed UI. The project focuses on clean code, mobile-first performance, and a smooth user experience.
